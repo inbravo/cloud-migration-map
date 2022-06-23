@@ -1,5 +1,4 @@
-# cloud-migration-map
-Contains the details for providing the details on cloud migration path of popular on-prem technologies
+# Cloud migration reference for popular on-prem technologies
 
  | % | Source  | AWS | Azure | GCP |
  |  ----------- | -----------  | -----------  | -----------  | -----------  | 
