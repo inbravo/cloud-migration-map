@@ -15,7 +15,7 @@
  
   | % | Source  | AWS | Azure | GCP |
  |  ----------- | -----------  | -----------  | -----------  | -----------  | 
- | 1 | [- Abinitio](https://www.abinitio.com) | [- Glue ETL](https://aws.amazon.com/glue) |  |  |
+ | 1 | [- Abinitio](https://www.abinitio.com) </br> [- Components](http://abinitio-components.blogspot.com) </br> [- Graph Design](http://abinitio-graph.blogspot.com)| [- Glue ETL](https://aws.amazon.com/glue) |  |  |
  
  ## EDW Migration
  
