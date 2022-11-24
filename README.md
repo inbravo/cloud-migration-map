@@ -13,13 +13,13 @@
  
  ## ETL Migration
  
-  | % | Source  | AWS | Azure | GCP |
- |  ----------- | -----------  | -----------  | -----------  | -----------  | 
- | 1 | [- Abinitio](https://www.abinitio.com) </br> [- Components](http://abinitio-components.blogspot.com) </br> [- Graph Design](http://abinitio-graph.blogspot.com)| [- Glue ETL](https://aws.amazon.com/glue) |  |  |
+  | % | Source  | AWS | Databricks | Azure | GCP |
+ |  ----------- | -----------  | -----------  | -----------  | -----------  | -----------  | 
+ | 1 | [- Abinitio](https://www.abinitio.com) </br> [- Components](http://abinitio-components.blogspot.com) </br> [- Graph Design](http://abinitio-graph.blogspot.com)| [- Glue ETL](https://aws.amazon.com/glue/features/) |  |  |
  
  ## EDW Migration
  
-  | % | Source  | AWS | Azure | GCP |
- |  ----------- | -----------  | -----------  | -----------  | -----------  | 
+  | % | Source  | AWS | Databricks | Azure | GCP |
+ |  ----------- | -----------  | -----------  | -----------  | -----------  | -----------  | 
  | 1 |  |  |  |
  
