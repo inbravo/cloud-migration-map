@@ -3,7 +3,7 @@
 ## Hadoop Migration 
 
  | % | Source  | Target | Target Platform |
- |  ----------- | -----------  | -----------  | -----------  | -----------  | 
+ |  ----------- | -----------  | -----------  | -----------  | 
  | 1 | [- HBase](https://hbase.apache.org) 		| [- HBase on S3/EMRFS](https://d1.awsstatic.com/whitepapers/Migrating_to_Apache_Hbase_on_Amazon_S3_on_Amazon_EMR.pdf) | AWS |
  
  ## ETL Migration
