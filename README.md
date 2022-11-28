@@ -21,5 +21,5 @@
  
   | % | Source  | AWS | Databricks | Azure | GCP |
  |  ----------- | -----------  | -----------  | -----------  | -----------  | -----------  | 
- | 1 |  |  |  |
+ | 1 |  | [- ] | [- Data migration using ADF and Synapse Pipeline](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?toc=%2Fazure%2Fsynapse-analytics%2Fsql-data-warehouse%2Ftoc.json&tabs=data-factory)  |
  
