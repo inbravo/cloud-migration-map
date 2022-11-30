@@ -16,5 +16,5 @@
  
   | % | Source  | AWS | 
  |  ----------- | -----------  | -----------  | 
- | 1 |  | [] | [] | [- Azure Data Loading Strategy](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading) </br> [- Data migration using ADF and Synapse Pipeline](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?toc=%2Fazure%2Fsynapse-analytics%2Fsql-data-warehouse%2Ftoc.json&tabs=data-factory) |
+ | 1 | [- Teradata](https://docs.teradata.com/r/Teradata-VantageTM-SQL-Fundamentals/July-2021/Database-Objects) | [- Redshift serverless vs Provisioned](https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-console-comparison.html) </br>  [- Amazon Redshift designed for OLAP & BI, to run queries against large datasets](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html) </br> [- Redshift SQL reference](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-sql.html) | 
  
