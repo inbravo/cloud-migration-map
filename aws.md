@@ -16,5 +16,5 @@
  
   | % | Source  | AWS | 
  |  ----------- | -----------  | -----------  | 
- | 1 | [- Teradata](https://docs.teradata.com/r/Teradata-VantageTM-SQL-Fundamentals/July-2021/Database-Objects) | [- Redshift serverless vs Provisioned](https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-console-comparison.html) </br>  [- Amazon Redshift designed for OLAP & BI, to run queries against large datasets](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html) </br> [- Redshift SQL reference](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-sql.html) | 
+ | 1 | [- Teradata](https://docs.teradata.com/r/Teradata-VantageTM-SQL-Fundamentals/July-2021/Database-Objects) | [- Redshift serverless vs Provisioned](https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-console-comparison.html) </br>  [- Amazon Redshift designed for OLAP & BI, to run queries against large datasets](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html) </br> [- Redshift SQL reference](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-sql.html) </br> [- Redshift Dynamic Data Masking is available](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-dynamic-data-masking-preview/) | 
  
