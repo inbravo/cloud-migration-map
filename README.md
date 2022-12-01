@@ -30,3 +30,5 @@
 ### Synapse
 - [Azure Data Loading Strategy](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading)
 - [Data migration using ADF and Synapse Pipeline](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?toc=%2Fazure%2Fsynapse-analytics%2Fsql-data-warehouse%2Ftoc.json&tabs=data-factory)
+- [Ingest data into a dedicated SQL pool of Synapse](https://learn.microsoft.com/en-us/azure/synapse-analytics/data-integration/data-integration-sql-pool?source=recommendations)
+- [Load data into Synapse using ADF or Synapse pipeline](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?tabs=data-factory)
