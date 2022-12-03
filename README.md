@@ -35,3 +35,4 @@
 | [Ingest data into a dedicated SQL pool of Synapse](https://learn.microsoft.com/en-us/azure/synapse-analytics/data-integration/data-integration-sql-pool?source=recommendations) |
 | [Load data into Synapse using ADF or Synapse pipeline](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?tabs=data-factory) |
 | [Delta Format on Azure](https://docs.microsoft.com/en-us/azure/data-factory/format-delta) |
+| [Delta Format challanges on Azure](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/resources-self-help-sql-on-demand?tabs=x80070002#delta-lake) |
