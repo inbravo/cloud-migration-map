@@ -10,10 +10,6 @@
 
 | AbInitio  | 
 |  ----------- |
-|  [SAP BODS ATL File](https://www.ijert.org/research/sap-data-services-and-object-promotions-IJERTV9IS120134.pdf) |
-
-| AbInitio  | 
-|  ----------- |
 |  [AbInitio](https://www.abinitio.com) |
 |  [AbInitio Components](http://abinitio-components.blogspot.com) |
 |  [AbInitio Graph Design](http://abinitio-graph.blogspot.com) |
@@ -39,3 +35,7 @@
 | [Load data into Synapse using ADF or Synapse pipeline](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?tabs=data-factory) |
 | [Delta Format on Azure](https://docs.microsoft.com/en-us/azure/data-factory/format-delta) |
 | [Delta Format challanges on Azure](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/resources-self-help-sql-on-demand?tabs=x80070002#delta-lake) |
+
+| ETL & BI | Exportable File Format | 
+|  ----------- | ----------- |
+|  [SAP BODS](https://www.ijert.org/research/sap-data-services-and-object-promotions-IJERTV9IS120134.pdf) | ATL -Advanced Transformation language |
