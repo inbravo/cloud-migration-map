@@ -16,6 +16,11 @@
 |  [Glue ETL](https://aws.amazon.com/glue/features)  |
 |  [Glue Brew vs Glue](https://cloudacademy.com/course/management-saa-c03/aws-glue-databrew-vs-glue-studio) |
 
+| MS SSIS  | 
+|  ----------- |
+|  [SSIS jobs exportable to DTSX (Data Transformation Services Package XML) files](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd) |
+
+
 | Teradata  | 
 |  ----------- |
 | [Teradata](https://docs.teradata.com/r/Teradata-VantageTM-SQL-Fundamentals/July-2021/Database-Objects) |
