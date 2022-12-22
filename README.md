@@ -16,9 +16,14 @@
 |  [Glue ETL](https://aws.amazon.com/glue/features)  |
 |  [Glue Brew vs Glue](https://cloudacademy.com/course/management-saa-c03/aws-glue-databrew-vs-glue-studio) |
 
+| SAS  | 
+|  ----------- |
+|  [Base SAS Language Definitions](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lepg/n1lk7u75dae3hjn1c1ymzcu4xg9u.htm#p14u47o4ollqstn1w6zhkh41k3oa) |
+|  [Summary of SAS File Types](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lepg/n1lk7u75dae3hjn1c1ymzcu4xg9u.htm#p1oepdwv2w2r82n1irvuwgxth4ks) |
+
 | MS SSIS  | 
 |  ----------- |
-|  [SSIS jobs exportable to DTSX (Data Transformation Services Package XML) files](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd) |
+|  [SSIS jobs exportable to DTSX (Data Transformation Services Package XML) files](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lestmtsglobal/p08dfq4p2zd7ijn1aoeliru9g5xm.htm) |
 
 
 | Teradata  | 
