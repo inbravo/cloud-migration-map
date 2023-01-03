@@ -18,6 +18,8 @@
 |  ----------- |
 |  [Informatica Powercenter](https://docs.informatica.com/data-integration/powercenter/10-5/workflow-basics-guide/preface.html) |
 |  [Informatica workflows](https://www.guru99.com/workflows-informatica.html) |
+|  [Informatica session](https://docs.informatica.com/data-integration/powercenter/10-4-0/workflow-basics-guide/sessions/sessions-overview.html) |
+
 
 | AWS Glue  | 
 |  ----------- |
