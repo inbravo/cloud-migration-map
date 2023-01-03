@@ -14,6 +14,11 @@
 |  [AbInitio Components](http://abinitio-components.blogspot.com) |
 |  [AbInitio Graph Design](http://abinitio-graph.blogspot.com) |
 
+| Informatica  | 
+|  ----------- |
+|  [Informatica Powercenter](https://docs.informatica.com/data-integration/powercenter/10-5/workflow-basics-guide/preface.html) |
+|  [Informatica workflows](https://www.guru99.com/workflows-informatica.html) |
+
 | AWS Glue  | 
 |  ----------- |
 |  [Glue ETL](https://aws.amazon.com/glue/features)  |
