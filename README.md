@@ -21,7 +21,6 @@
 |  [Informatica session](https://docs.informatica.com/data-integration/powercenter/10-4-0/workflow-basics-guide/sessions/sessions-overview.html) |
 |  [Informatica mapping](https://docs.informatica.com/data-integration/powercenter/10-5/designer-guide/mappings/mappings-overview.html) |
 
-
 | AWS Glue  | 
 |  ----------- |
 |  [Glue ETL](https://aws.amazon.com/glue/features)  |
@@ -33,23 +32,18 @@
 |  [Summary of SAS File Types](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lepg/n1lk7u75dae3hjn1c1ymzcu4xg9u.htm#p1oepdwv2w2r82n1irvuwgxth4ks) |
 |  [SAS Software User Interfaces](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lepg/p1pxzze6cmxk95n10zpeqru787i0.htm) |
 
-
-
 | MS SSIS  | 
 |  ----------- |
 |  [SSIS jobs exportable to DTSX (Data Transformation Services Package XML) files](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lestmtsglobal/p08dfq4p2zd7ijn1aoeliru9g5xm.htm) |
-
 
 | Teradata  | 
 |  ----------- |
 | [Teradata](https://docs.teradata.com/r/Teradata-VantageTM-SQL-Fundamentals/July-2021/Database-Objects) |
 
-
-| AWS Glue  | 
+| MS SQL Server  | 
 |  ----------- |
-| [Glue Features](https://aws.amazon.com/glue/features) |
-| [Glue Brew vs Glue](https://cloudacademy.com/course/management-saa-c03/aws-glue-databrew-vs-glue-studio) |
-
+|  [SQL vs TSQL](https://www.geeksforgeeks.org/difference-between-structured-query-language-sql-and-transact-sql-t-sql/?ref=lbp) |
+|  [TSQL Reference](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16) |
 
 | Azure Synapse  | 
 |  ----------- |
