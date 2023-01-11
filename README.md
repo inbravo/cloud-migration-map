@@ -7,6 +7,7 @@
 | [Migrate HBase to CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/migrate-hbase-to-cosmos-db) |
 | [Hadoop ORC Format](https://orc.apache.org) |
 | [HBase on AWS S3/EMRFS](https://d1.awsstatic.com/whitepapers/Migrating_to_Apache_Hbase_on_Amazon_S3_on_Amazon_EMR.pdf) |
+| [HBase to Cloud Bigtable](https://cloud.google.com/architecture/hadoop/hadoop-gcp-migration-data-hbase-to-bigtable) |
 
 | AbInitio  | 
 |  ----------- |
