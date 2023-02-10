@@ -9,6 +9,11 @@
 | [HBase on AWS S3/EMRFS](https://d1.awsstatic.com/whitepapers/Migrating_to_Apache_Hbase_on_Amazon_S3_on_Amazon_EMR.pdf) |
 | [HBase to GCP Cloud Bigtable](https://cloud.google.com/architecture/hadoop/hadoop-gcp-migration-data-hbase-to-bigtable) |
 
+| HDFS/ Hive  | 
+|  ----------- |
+| [HDFS to GCS](https://github.com/GoogleCloudPlatform/hdfs-to-gcs) 	|
+
+
 | AbInitio  | 
 |  ----------- |
 |  [AbInitio](https://www.abinitio.com) |
